@@ -1,0 +1,31 @@
+/* Type Selector - Hits the whole page[span_6](start_span)[span_6](end_span) */
+body {
+    background-color: #0b1c15; /* Deep Providence forest green */
+    color: #d4af37; /* Metallic gold/copper text */
+    font-family: "Georgia", serif; /* Moody serif font */
+}
+
+/* ID Selector - Targets only your main header[span_7](start_span)[span_7](end_span) */
+#main-title {
+    text-align: center;
+    border-bottom: 2px solid #d4af37; /* Box model: border[span_8](start_span)[span_8](end_span) */
+    padding-bottom: 20px; /* Box model: padding[span_9](start_span)[span_9](end_span) */
+    margin-bottom: 30px; /* Box model: margin[span_10](start_span)[span_10](end_span) */
+}
+
+/* Class Selector - Targets your main content sections[span_11](start_span)[span_11](end_span) */
+.gothic-box {
+    background-color: #132a20; /* Slightly lighter green for contrast */
+    border: 1px solid #8c7326; /* Box model: border[span_12](start_span)[span_12](end_span) */
+    padding: 25px; /* Box model: padding[span_13](start_span)[span_13](end_span) */
+    margin: 20px; /* Box model: margin[span_14](start_span)[span_14](end_span) */
+    border-radius: 8px;
+}
+
+/* Type Selector - Gives the cats some breathing room[span_15](start_span)[span_15](end_span) */
+img {
+    border: 4px solid #d4af37; /* Box model: border[span_16](start_span)[span_16](end_span) */
+    padding: 5px; /* Box model: padding[span_17](start_span)[span_17](end_span) */
+    margin-top: 15px; /* Box model: margin[span_18](start_span)[span_18](end_span) */
+    max-width: 100%;
+}
