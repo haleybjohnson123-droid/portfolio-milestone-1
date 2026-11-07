@@ -22,6 +22,11 @@ body {
     border-radius: 8px;
 }
 
+
+nav a {
+    color: #d4af37; 
+    text-decoration: none; 
+}
 /* Type Selector - Gives the cats some breathing room[span_15](start_span)[span_15](end_span) */
 img {
     border: 4px solid #d4af37; /* Box model: border[span_16](start_span)[span_16](end_span) */
